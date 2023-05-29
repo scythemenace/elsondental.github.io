@@ -284,8 +284,9 @@ span {
 }
 
 .final {
+    display: flex;
+    flex-wrap: wrap;
     max-width: 100%;
-    overflow: hidden;
     margin-top: 100px;
     margin-bottom: 100px;
     margin-left: 100px;
@@ -295,6 +296,7 @@ span {
 .main_text_and_img {
     display: flex;
     flex-direction: row;
+    flex-wrap: wrap;
 }
 
 .location {

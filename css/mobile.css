@@ -1,0 +1,63 @@
+.container {
+    max-width: 100%;
+    padding: 0 20px;
+    margin: 0 auto;
+    font-size: small;
+  }
+  
+  .logo {
+    margin-right: 0;
+  }
+  
+  .nav_links {
+    display: flex;
+    justify-content: flex-end;
+    margin-left: auto;
+  }
+  
+  .nav_links li {
+    margin-left: 20px;
+  }
+  
+  .main_home {
+    text-align: center;
+  }
+  
+  .pic1,
+  .pic2 {
+    width: 100%;
+    height: auto;
+  }
+  
+  .about img {
+    width: 100%;
+    height: auto;
+  }
+  
+  .img_gallery img {
+    width: 100%;
+    height: auto;
+  }
+  
+  .review {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+  .review img {
+    width: 100%;
+    height: auto;
+  }
+  
+  .main_text_and_img {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+  }
+  
+  .location,
+  .Office-Hours {
+    flex-basis: 45%;
+  }
+  
