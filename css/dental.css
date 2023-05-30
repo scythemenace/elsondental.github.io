@@ -577,7 +577,7 @@ footer {
     
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 400px) {
     h2 {
         font-family: 'Montserrat', sans-serif;
         color: #555555;
