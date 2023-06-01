@@ -717,6 +717,11 @@ footer {
         line-height: 1.8;
     }
 
+    .para {
+        font-size: 18px;
+        padding: 8px;
+    }
+
     .content h2 {
         font-size: 44px;
     }
