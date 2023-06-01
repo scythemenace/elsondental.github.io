@@ -758,14 +758,14 @@ footer {
     }
 
     .docpic {
-        height: 220px;
-        width: 200px;
+        height: 360px;
+        width: 300px;
         margin-bottom: 30px;
+        margin-left: 20px;
     }
 
     .about img {
         border-radius: 10%;
-        margin-right: 40px;
         margin-top: 20px;
     }
     
@@ -782,8 +782,8 @@ footer {
     }
 
     .img_gallery img {
-        height: 550px;
-        width: 450px;
+        height: 500px;
+        width: 400px;
     }
 
 
