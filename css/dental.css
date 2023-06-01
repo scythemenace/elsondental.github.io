@@ -110,7 +110,7 @@ main {
 
 main h1 {
     font-family: 'Montserrat', sans-serif;
-    padding-top: 30px;
+    padding-top: 80px;
     padding-left: 100px;
     font-weight: 600;
     font-style: bold;
@@ -660,7 +660,7 @@ footer {
     
     main h1 {
         font-family: 'Montserrat', sans-serif;
-        padding-top: 40px;
+        padding-top: 30px;
         padding-left: 10px;
         font-weight: 600;
         font-style: bold;
@@ -690,11 +690,11 @@ footer {
     
     .pic2 {
         box-shadow: 10px 10px 20px;
-        margin-right: 180px;
+        margin-right: 200px;
         position: relative;
         height: 95px;
         width: 95px;
-        top: -40px;
+        top: -60px;
         left: 0px;
         z-index: 1;
     }
