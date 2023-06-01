@@ -684,7 +684,7 @@ footer {
         box-shadow: 10px 10px 20px;
         margin-right: 300px;
         position: relative;
-        right: 160px;
+        right: 170px;
         height: 95px;
         width: 95px;
     }
@@ -696,7 +696,7 @@ footer {
         height: 95px;
         width: 95px;
         top: -40px;
-        left: -80px;
+        left: -90px;
         z-index: 1;
     }
     
