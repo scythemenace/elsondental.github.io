@@ -690,11 +690,11 @@ footer {
     
     .pic2 {
         box-shadow: 10px 10px 20px;
-        margin-right: 200px;
+        margin-right: 180px;
         position: relative;
         height: 95px;
         width: 95px;
-        top: -90px;
+        top: -40px;
         left: 0px;
         z-index: 1;
     }
