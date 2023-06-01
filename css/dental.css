@@ -655,7 +655,7 @@ footer {
     
     .main_home {
         margin-right: 240px;
-        margin-top: 70px;
+        margin-top: 50px;
     }
     
     main h1 {
@@ -666,6 +666,7 @@ footer {
         font-style: bold;
         font-size: 30px;
         color: #373737;
+        
     }
     
     main button {
@@ -676,14 +677,14 @@ footer {
         display: flex;
         flex-direction: column;
         align-items: flex-start;
-        margin-top: 150px;
+        margin-top: 110px;
         margin-right: -20px;
     }
     .pic1 {
         box-shadow: 10px 10px 20px;
         margin-right: 300px;
         position: relative;
-        right: 120px;
+        right: 160px;
         height: 95px;
         width: 95px;
     }
@@ -694,8 +695,8 @@ footer {
         position: relative;
         height: 95px;
         width: 95px;
-        top: -60px;
-        left: 0px;
+        top: -40px;
+        left: -80px;
         z-index: 1;
     }
     
