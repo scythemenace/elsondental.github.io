@@ -684,16 +684,16 @@ footer {
         margin-right: 300px;
         position: relative;
         right: 120px;
-        height: 150px;
-        width: 150px;
+        height: 110px;
+        width: 110px;
     }
     
     .pic2 {
         box-shadow: 10px 10px 20px;
         margin-right: 200px;
         position: relative;
-        height: 150px;
-        width: 150px;
+        height: 110px;
+        width: 110px;
         top: -80px;
         left: 0px;
         z-index: 1;
