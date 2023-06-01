@@ -748,15 +748,15 @@ footer {
         font-family: 'Montserrat', sans-serif;
         color: #555555;
         font-size: 12px;
-        padding: 20px;
+        padding: 15px;
         margin-top: 30px;
         display: flex;
         flex-direction: start;
     }
 
     .docpic {
-        height: 170px;
-        width: 370px;
+        height: 220px;
+        width: 420px;
     }
 
     .about img {
