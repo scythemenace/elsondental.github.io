@@ -747,16 +747,20 @@ footer {
     .about {
         font-family: 'Montserrat', sans-serif;
         color: #555555;
-        font-size: 12px;
-        padding: 15px;
+        font-size: 18px;
+        padding: 20px;
         margin-top: 30px;
         display: flex;
+        flex-wrap: wrap;
         flex-direction: start;
+        align-items: center;
     }
 
     .docpic {
-        height: 200px;
-        width: 400px;
+        height: 220px;
+        width: 200px;
+        margin-bottom: 30px;
+        margin-left: 120px;
     }
 
     .about img {
