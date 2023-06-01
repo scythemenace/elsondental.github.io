@@ -754,13 +754,13 @@ footer {
         flex-wrap: wrap;
         flex-direction: start;
         align-items: center;
+        justify-content: center;
     }
 
     .docpic {
         height: 220px;
         width: 200px;
         margin-bottom: 30px;
-        margin-left: 120px;
     }
 
     .about img {
