@@ -715,11 +715,12 @@ footer {
         color: #555555;
         display: grid;
         line-height: 1.8;
+        padding: 0px 18px;
     }
 
     .para {
         font-size: 18px;
-        padding: 8px;
+        padding: 0px 8px;
     }
 
     .content h2 {
@@ -735,7 +736,12 @@ footer {
     }
 
     .content {
-        padding: -100px;
+        font-family: 'Montserrat', sans-serif;
+        background-color: #a9a998;
+        color: #555555;
+        text-align: center;
+        font-size: 24px;
+        padding: 100px 30px;
     }
 
     .about {
