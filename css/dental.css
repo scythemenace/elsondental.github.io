@@ -708,12 +708,13 @@ footer {
         cursor: pointer;
     }
     
-    .Welcome  {
-        font-size: 25px;
-    }
-
-    .para {
-        font-size: 10px;
+    span {
+        font-family: "Montserrat", sans-serif;
+        font-weight: 700;
+        font-size: 20px;
+        color: #555555;
+        display: grid;
+        line-height: 1.8;
     }
 
     .content h2 {
