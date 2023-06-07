@@ -24,7 +24,7 @@ html {
 
 h2 {
     font-family: 'Montserrat', sans-serif;
-    color: #fef16c;
+    color: #ffffffee;
     text-align: center;
     font-size: 48px;
 }
@@ -34,7 +34,7 @@ li, a, button {
     font-weight: 600;
     font-style: bold;
     font-size: 16px;
-    color: #ffffff;
+    color: #152238;
     text-decoration: none;
 
 }
@@ -72,11 +72,11 @@ nav {
 
 .nav_links li a {
     transition: all 0.3s ease 0s;
-    color: #ffffff;
+    color: #ffffffee;
 }
 
 .nav_links li a:hover {
-    color: #171A21;
+    color: #888888;
 }
 
 .cta {
@@ -86,7 +86,7 @@ nav {
 button {
     margin-left: 20px;
     padding: 9px 25px;
-    background-color: #152238;
+    background-color: #fbec5d;
     border: none;
     border-radius: 50px;
     cursor: pointer;
@@ -94,7 +94,7 @@ button {
 }
 
 button:hover {
-    background-color: #171A21;
+    background-color: #c9bd34;
 }
 
 main {
@@ -115,7 +115,7 @@ main h1 {
     font-weight: 600;
     font-style: bold;
     font-size: 65px;
-    color: #373737;
+    color: #0D0D0D;
 }
 
 
@@ -154,14 +154,14 @@ span {
     font-family: "Montserrat", sans-serif;
     font-weight: 700;
     font-size: 25px;
-    color: #555555;
+    color: #0D0D0D;
     display: grid;
     line-height: 1.8;
 }
 
 .content {
     font-family: 'Montserrat', sans-serif;
-    background-color: #a9a998;
+    background-color: #003679;
     color: #555555;
     text-align: center;
     font-size: 24px;
@@ -169,7 +169,7 @@ span {
 }
 
 .content h2 {
-    color: #F4F1DE;
+    color: #fbec5d;
 }
 
 .content span {
@@ -197,9 +197,9 @@ span {
 .collapsible {
     position: relative;
     font-weight: 600;
-    background: #F4F1DE;
+    background: #31cff2;
     box-shadow: 0 5px 11px 0 rgba(0, 0, 0, .1), 0 4px 11px 0 rgba(0, 0, 0, .08);
-    color: #555555;
+    color: #152238;
     display: block;
     margin-bottom: 10px;
     cursor: pointer;
@@ -213,9 +213,9 @@ span {
 .collapsible1 {
     position: relative;
     font-weight: 600;
-    background: #F4F1DE;
+    background: #31cff2;
     box-shadow: 0 5px 11px 0 rgba(0, 0, 0, .1), 0 4px 11px 0 rgba(0, 0, 0, .08);
-    color: #555555;
+    color: #152238;
     display: block;
     margin-bottom: 10px;
     cursor: pointer;
@@ -228,7 +228,7 @@ span {
 
 .about {
     font-family: 'Montserrat', sans-serif;
-    color: #555555;
+    color: #0D0D0D;
     font-size: 28px;
     padding: 100px;
     display: flex;
@@ -253,7 +253,7 @@ span {
 }
 
 .img_gallery {
-    background-color: #a9a998;
+    background-color: #003679;
 }
 
 .img_gallery .img {
@@ -262,11 +262,12 @@ span {
 }
 
 .img_gallery h2 {
-    color: #F4F1DE;
+    color: #fbec5d;
+    margin-bottom: 70px;
 }
 
 .review_heading {
-    margin: 100px;
+    margin: 100px 100px 50px 100px;
 }
 
 .review {
@@ -305,7 +306,7 @@ span {
 
 .Office-Hours {
     font-family: 'Montserrat', sans-serif;
-    color: #555555;
+    color: #0D0D0D;
     text-align: center;
     font-size: 24px;
 }
@@ -317,7 +318,7 @@ span {
 hr {
     display: block;
     width: 86%;
-    border: 1px solid #555555;
+    border: 1px solid #0D0D0D;
     margin-top: 0.5em;
     margin-bottom: 0.5em;
     margin-left: auto;
@@ -327,13 +328,13 @@ hr {
 footer {
     margin: 20px;
     font-family: 'Montserrat', sans-serif;
-    color: #555555;
+    color: #0D0D0D;
 }
 
 @media screen and (max-width: 900px) {
     h2 {
         font-family: 'Montserrat', sans-serif;
-        color: #555555;
+        color: #ffffffee;
         text-align: center;
         font-size: 44px;
     }
@@ -343,7 +344,7 @@ footer {
         font-weight: 600;
         font-style: bold;
         font-size: 14px;
-        color: #edf0f1;
+        color: #152238;
         text-decoration: none;
     
     }
@@ -353,7 +354,7 @@ footer {
         justify-content: flex-end;
         align-items: center;
         padding: 30px 2%;
-        background-color: #a9a998;
+        background-color: #003679;
     }
 
     .nav_links li {
@@ -367,11 +368,11 @@ footer {
     
     .nav_links li a {
         transition: all 0.3s ease 0s;
-        color: #555555;
+        color: #ffffffee;
     }
     
     .nav_links li a:hover {
-        color: #171A21;
+        color: #888888;
     }
     
     .cta {
@@ -388,7 +389,7 @@ footer {
     button {
         margin-left: 10px;
         padding: 9px 20px;
-        background-color: #555555;
+        background-color: #fbec5d;
         border: none;
         border-radius: 50px;
         cursor: pointer;
@@ -413,7 +414,7 @@ footer {
         font-weight: 600;
         font-style: bold;
         font-size: 60px;
-        color: #373737;
+        color: #0D0D0D;
     }
     
     main button {
@@ -481,7 +482,7 @@ footer {
 
     .about {
         font-family: 'Montserrat', sans-serif;
-        color: #555555;
+        color: #0D0D0D;
         font-size: 14px;
         padding: 40px;
         margin-top: 30px;
@@ -567,7 +568,7 @@ footer {
     
     .Office-Hours {
         font-family: 'Montserrat', sans-serif;
-        color: #555555;
+        color: #0D0D0D;
         text-align: center;
         font-size: 24px;
     }
@@ -579,14 +580,14 @@ footer {
     footer {
         margin: 20px;
         font-family: 'Montserrat', sans-serif;
-        color: #555555;
+        color: #0D0D0D;
     }
 }
 
 @media screen and (max-width: 600px) {
     h2 {
         font-family: 'Montserrat', sans-serif;
-        color: #555555;
+        color: #ffffffee;
         text-align: center;
         font-size: 38px;
     }
@@ -596,7 +597,7 @@ footer {
         font-weight: 600;
         font-style: bold;
         font-size: 9px;
-        color: #edf0f1;
+        color: #152238;
         text-decoration: none;
     
     }
@@ -606,7 +607,7 @@ footer {
         justify-content: flex-end;
         align-items: center;
         padding: 30px 2%;
-        background-color: #a9a998;
+        background-color: #003679;
     }
 
     .nav_links li {
@@ -620,11 +621,11 @@ footer {
     
     .nav_links li a {
         transition: all 0.3s ease 0s;
-        color: #555555;
+        color: #ffffffee;
     }
     
     .nav_links li a:hover {
-        color: #171A21;
+        color: #888888;
     }
     
     .cta {
@@ -641,7 +642,7 @@ footer {
     button {
         margin-left: 10px;
         padding: 9px 20px;
-        background-color: #555555;
+        background-color: #fbec5d;
         border: none;
         border-radius: 50px;
         cursor: pointer;
@@ -666,7 +667,7 @@ footer {
         font-weight: 600;
         font-style: bold;
         font-size: 30px;
-        color: #373737;
+        color: #0D0D0D;
         
     }
     
@@ -738,7 +739,7 @@ footer {
 
     .content {
         font-family: 'Montserrat', sans-serif;
-        background-color: #a9a998;
+        background-color: #003679;
         color: #555555;
         text-align: center;
         font-size: 24px;
@@ -747,7 +748,7 @@ footer {
 
     .about {
         font-family: 'Montserrat', sans-serif;
-        color: #555555;
+        color: #0D0D0D;
         font-size: 18px;
         padding: 5px;
         display: flex;
@@ -836,7 +837,7 @@ footer {
     
     .Office-Hours {
         font-family: 'Montserrat', sans-serif;
-        color: #555555;
+        color: #0D0D0D;
         text-align: center;
         font-size: 24px;
     }
@@ -848,6 +849,6 @@ footer {
     footer {
         margin: 20px;
         font-family: 'Montserrat', sans-serif;
-        color: #555555;
+        color: #0D0D0D;
     }
 }
