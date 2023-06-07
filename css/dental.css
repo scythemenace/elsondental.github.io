@@ -9,7 +9,7 @@ html, body {
 
 body {
     transition: background 1s ease;
-    background-color: #F4F1DE;
+    background-color: #31cff2;
 }
 
 html {
@@ -24,7 +24,7 @@ html {
 
 h2 {
     font-family: 'Montserrat', sans-serif;
-    color: #555555;
+    color: #fef16c;
     text-align: center;
     font-size: 48px;
 }
@@ -34,7 +34,7 @@ li, a, button {
     font-weight: 600;
     font-style: bold;
     font-size: 16px;
-    color: #edf0f1;
+    color: #ffffff;
     text-decoration: none;
 
 }
@@ -49,7 +49,7 @@ header {
     justify-content: flex-end;
     align-items: center;
     padding: 30px 10%;
-    background-color: #a9a998;
+    background-color: #003679;
 }
 
 nav {
@@ -72,7 +72,7 @@ nav {
 
 .nav_links li a {
     transition: all 0.3s ease 0s;
-    color: #555555;
+    color: #ffffff;
 }
 
 .nav_links li a:hover {
@@ -86,7 +86,7 @@ nav {
 button {
     margin-left: 20px;
     padding: 9px 25px;
-    background-color: #555555;
+    background-color: #152238;
     border: none;
     border-radius: 50px;
     cursor: pointer;
