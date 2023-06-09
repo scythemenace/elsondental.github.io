@@ -169,7 +169,7 @@ span {
 }
 
 .content h2 {
-    color: #fbec5d;
+    color: #ffffffee;
 }
 
 .content span {
@@ -197,7 +197,7 @@ span {
 .collapsible {
     position: relative;
     font-weight: 600;
-    background: #ffffffee;
+    background: #fbec5d;
     box-shadow: 0 5px 11px 0 rgba(0, 0, 0, .1), 0 4px 11px 0 rgba(0, 0, 0, .08);
     color: #152238;
     display: block;
@@ -213,7 +213,7 @@ span {
 .collapsible1 {
     position: relative;
     font-weight: 600;
-    background: #ffffffee;
+    background: #fbec5d;
     box-shadow: 0 5px 11px 0 rgba(0, 0, 0, .1), 0 4px 11px 0 rgba(0, 0, 0, .08);
     color: #152238;
     display: block;
@@ -262,7 +262,7 @@ span {
 }
 
 .img_gallery h2 {
-    color: #fbec5d;
+    color: #ffffffee;
     margin-bottom: 70px;
 }
 
