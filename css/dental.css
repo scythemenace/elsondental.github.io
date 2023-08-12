@@ -86,7 +86,7 @@ nav {
 button {
     margin-left: 20px;
     padding: 9px 25px;
-    background-color: #fbec5d;
+    background-color: #ffffffee;
     border: none;
     border-radius: 50px;
     cursor: pointer;
@@ -94,7 +94,7 @@ button {
 }
 
 button:hover {
-    background-color: #c9bd34;
+    background-color: rgb(147, 147, 142);
 }
 
 main {
@@ -197,7 +197,7 @@ span {
 .collapsible {
     position: relative;
     font-weight: 600;
-    background: #fbec5d;
+    background: #ffffffee;
     box-shadow: 0 5px 11px 0 rgba(0, 0, 0, .1), 0 4px 11px 0 rgba(0, 0, 0, .08);
     color: #152238;
     display: block;
@@ -213,7 +213,7 @@ span {
 .collapsible1 {
     position: relative;
     font-weight: 600;
-    background: #fbec5d;
+    background: #ffffffee;
     box-shadow: 0 5px 11px 0 rgba(0, 0, 0, .1), 0 4px 11px 0 rgba(0, 0, 0, .08);
     color: #152238;
     display: block;
@@ -389,7 +389,7 @@ footer {
     button {
         margin-left: 10px;
         padding: 9px 20px;
-        background-color: #fbec5d;
+        background-color: #ffffffee;
         border: none;
         border-radius: 50px;
         cursor: pointer;
@@ -642,7 +642,7 @@ footer {
     button {
         margin-left: 10px;
         padding: 9px 20px;
-        background-color: #fbec5d;
+        background-color: #ffffffee;
         border: none;
         border-radius: 50px;
         cursor: pointer;
@@ -911,7 +911,7 @@ footer {
     button {
         margin-left: 10px;
         padding: 9px 20px;
-        background-color: #fbec5d;
+        background-color: #ffffffee;
         border: none;
         border-radius: 50px;
         cursor: pointer;
